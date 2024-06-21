@@ -1,4 +1,3 @@
-
 <!--
 **kushagra-goyal-14/kushagra-goyal-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,26 +32,17 @@ Here are some ideas to get you started:
 
 <hr>
 
-
-
-
-
-
 <h3 align="center">Connect with me:</h3>
-<div align="center" width="fit-content">
+<div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mittal-b13b82229/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-mittal-b13b82229/)
 &emsp;
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.anupam1324@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.anupam1324@gmail.com)
 &emsp;
-
-[![image](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_anupammittal)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_anupammittal)
 &emsp;
-
-[![image](https://img.shields.io/badge/Leetcode-b59816?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anupammittal__/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-b59816?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anupammittal__/)
 &emsp;
-
-[![image](https://img.shields.io/badge/Codechef-290E0A?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anupam_mittaln)
-
+[![Codechef](https://img.shields.io/badge/Codechef-290E0A?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anupam_mittaln)
 
 </div>
