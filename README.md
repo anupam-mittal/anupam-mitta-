@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.anupam1324@gmail.com)
 &emsp;
 
-[![image](https://www.google.com/imgres?q=codechef&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fgithub%2Fexplore%2Fc432a21abaa4326f9e64194b3a0a7224b4069ace%2Ftopics%2Fcodechef%2Fcodechef.png&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fcodechef&docid=-5ifNE-DM_MZ3M&tbnid=Ryd0m37z9Iq4xM&vet=12ahUKEwiQqPKLpO2GAxXse2wGHRxXBs8QM3oECE8QAA..i&w=288&h=288&hcb=2&ved=2ahUKEwiQqPKLpO2GAxXse2wGHRxXBs8QM3oECE8QAA)](https://www.codechef.com/users/anupam_mittaln)
+[![image](https://img.shields.io/badge/Codechef-290E0A?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anupam_mittaln)
 
 
 </div>
