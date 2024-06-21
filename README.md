@@ -46,6 +46,12 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.anupam1324@gmail.com)
 &emsp;
 
+[![image](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_anupammittal)
+&emsp;
+
+[![image](https://img.shields.io/badge/Leetcode-b59816?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anupammittal__/)
+&emsp;
+
 [![image](https://img.shields.io/badge/Codechef-290E0A?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anupam_mittaln)
 
 
